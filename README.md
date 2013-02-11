@@ -14,6 +14,7 @@ Skype: [call me](callto://pdewouters "skype me")
 - Expertise in developing WordPress plugins
 - Knowledge of using the WordPress APIS such as custom post types, taxonomies, transients, settings, HTTP, custom fields, shortcodes,...
 - Knowledge of HTML5 and CSS3
+- Knowledge of Sass
 - Knowledge of SQL and mySQL databases
 - Knowledge of jQuery
 - Usage of Photoshop CS6 for slicing designs.
